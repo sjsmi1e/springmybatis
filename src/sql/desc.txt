@@ -1,0 +1,6 @@
+﻿在mysql数据库
+1.创建mybatis的数据库
+2.用navicat打开mybatis数据库
+2.将mybatis.sql移到navicat里面即可导入数据表
+
+自己根据情况修改数据库连接配置
